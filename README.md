@@ -1,4 +1,4 @@
-Assignment 1 Miyeon Kim
+Assignment 2 Miyeon Kim
 
 Preview : 
 
