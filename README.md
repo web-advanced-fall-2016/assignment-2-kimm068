@@ -1,4 +1,4 @@
-https://web-advanced-fall-2016.github.io/assignment-2-kimm068/
+https://web-advanced-fall-2016.github.io/assignment-2-kimm068/tree/master/www
 
 Assignment 2 Miyeon Kim
 
