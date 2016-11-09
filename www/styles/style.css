@@ -68,7 +68,7 @@ body {
 
 .name{
     font-family: 'Open Sans', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     color: #ffaab6;
     text-align: center;
     padding-bottom: 10%; 
@@ -76,10 +76,12 @@ body {
 
 .email{
     text-align: center;
+    font-size: 15px;
 }
 
 .exerpt{
     text-align: center;
+    font-size: 15px;
 }
 
 .modal {
